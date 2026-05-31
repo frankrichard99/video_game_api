@@ -1,0 +1,16 @@
+# Build and deployment outputs
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache and settings
+.vs/
+[Vv]s/
+**/.vs/
+*.vsidx
+*.suo
+*.user
+*.sln.docstates
+
+# IDEs and Editors
+.vscode/
+.idea/
